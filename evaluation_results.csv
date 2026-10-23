@@ -1,0 +1,5 @@
+query,precision@3,recall@3,top1_accuracy
+When is the comprehensive final exam?,0.3333,1.0000,1
+What is the self attention formula?,0.3333,1.0000,1
+Who is the instructor for the AI lecture?,0.3333,1.0000,1
+What does FAISS provide?,0.3333,1.0000,1
